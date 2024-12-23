@@ -1,4 +1,4 @@
-const url = "https://formcarry.com/V/s5AE4tEX-Xr";
+const url = "https://formcarry.com/s/s5AE4tEX-Xr";
 
 function sendForm(event) {
     event.preventDefault();
